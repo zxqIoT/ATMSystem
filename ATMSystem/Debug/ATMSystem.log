@@ -1,0 +1,16 @@
+﻿  ATM.cpp
+f:\自学编程\atmsystem\atmsystem\atm.cpp(49): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(49): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(49): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(49): note: 此参数用作缓冲区大小
+f:\自学编程\atmsystem\atmsystem\atm.cpp(317): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(317): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(317): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(317): note: 此参数用作缓冲区大小
+f:\自学编程\atmsystem\atmsystem\atm.cpp(346): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(346): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(346): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\自学编程\atmsystem\atmsystem\atm.cpp(346): note: 此参数用作缓冲区大小
+f:\自学编程\atmsystem\atmsystem\atm.cpp(380): warning C4101: “i”: 未引用的局部变量
+  ATMSystem.vcxproj -> F:\自学编程\ATMSystem\Debug\ATMSystem.exe
+  ATMSystem.vcxproj -> F:\自学编程\ATMSystem\Debug\ATMSystem.pdb (Partial PDB)
